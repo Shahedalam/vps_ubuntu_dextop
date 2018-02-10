@@ -3,7 +3,7 @@
 
 sudo passwd // Change ubuntu password for smooth access 
 
-wget https://raw.githubusercontent.com/Shahedalam/vps_ubuntu_dextop/master/ubuntu_remote_dextop_install
+wget https://raw.githubusercontent.com/Shahedalam/vps_ubuntu_dextop/master/ubuntu_remote_dextop_install.sh
 
 chmod +x ubuntu_remote_dextop_install.sh
 
